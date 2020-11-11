@@ -1092,7 +1092,7 @@ a {
   color: #bbbbbb;
 }
 .cid-sfYQx2aD6f {
-  background-image: url("../../../assets/images/background7.jpg");
+  background-image: url("../../../assets/images/folha-da-maconha-png-6-1024x1019.png");
 }
 @media (max-width: 991px) {
   .cid-sfYQx2aD6f .mbr-section-title,
@@ -1214,6 +1214,10 @@ a {
 }
 .cid-sfYTKUiSKk P {
   text-align: center;
+  color: #ffffff;
+}
+.cid-sfYTKUiSKk H5 {
+  color: #ffffff;
 }
 .cid-sfYVu3sudr {
   padding-top: 6rem;
@@ -1281,6 +1285,7 @@ a {
 .cid-sfYWf8lhkb .timelines-container {
   display: flex;
   flex-wrap: wrap;
+  flex-direction: column-reverse;
 }
 .cid-sfYWf8lhkb .image-wrapper img {
   width: 100%;
@@ -1446,7 +1451,7 @@ a {
 .cid-sfZbdRtmdH {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/background8.jpg");
 }
 .cid-sfZbdRtmdH .card-wrapper {
   background: #4479d9;
@@ -1478,7 +1483,7 @@ a {
 .cid-sfZbRThzB7 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-sfZbRThzB7 .mbr-iconfont {
   font-size: 1.4rem !important;
@@ -1513,7 +1518,7 @@ a {
 .cid-sfZmlCwEHM {
   padding-top: 6rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/renascimentohumano-1701x850.png");
 }
 .cid-sfZmlCwEHM .mbr-text,
 .cid-sfZmlCwEHM .mbr-section-btn {
@@ -1589,7 +1594,6 @@ a {
 .cid-sfZp0MOolI {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
 }
 .cid-sfZp0MOolI ul {
   list-style: none;
@@ -1612,7 +1616,7 @@ a {
 .cid-sfZw5JIesr {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/renedescartes-2483x926.png");
 }
 .cid-sfZw5JIesr .mbr-text,
 .cid-sfZw5JIesr .mbr-section-btn {
@@ -1648,7 +1652,7 @@ a {
 .cid-sfZyufgnbr {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/blaisepascal-1178x1026.png");
 }
 .cid-sfZyufgnbr ul {
   list-style: none;
@@ -1671,7 +1675,7 @@ a {
 .cid-sfZzt4xH9H {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/micheldemontaigne-1166x1151.png");
 }
 .cid-sfZzt4xH9H .nav-tabs .nav-item.open .nav-link:focus,
 .cid-sfZzt4xH9H .nav-tabs .nav-link.active:focus {
@@ -1716,7 +1720,7 @@ a {
 .cid-sfZIYvQdT0 {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/thomasmorus-1417x1784.png");
 }
 .cid-sfZIYvQdT0 ul {
   list-style: none;
@@ -1739,7 +1743,7 @@ a {
 .cid-sfZN5swh6A {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/francisbacon-1-720x898.png");
 }
 .cid-sfZN5swh6A .mbr-iconfont {
   font-size: 1.4rem !important;
@@ -1878,6 +1882,10 @@ a {
 }
 .cid-sfZSoL9XH8 P {
   text-align: left;
+  color: #000000;
+}
+.cid-sfZSoL9XH8 H5 {
+  color: #000000;
 }
 .cid-sfZTGlw1oP {
   padding-top: 0rem;
@@ -2108,7 +2116,7 @@ a {
 .cid-sfZYYu0H2E {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-sfZYYu0H2E .timelines-container {
   display: flex;
@@ -2210,7 +2218,7 @@ a {
     padding: 2rem;
   }
 }
-.cid-sg09PggL5S {
+.cid-sg0eIVs4Oh {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
