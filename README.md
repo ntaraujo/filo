@@ -1,5 +1,5 @@
-# 😃 Hey, wasup?
+# 😃 Opa
 
-This is the source code of my philosophy portfolio at Colégio Termomecanica, link on description.
+Esse é o código fonte do meu portfólio de filosofia, feito para o Colégio Termomecanica. Link na Descrição.
 
-It was made with [Mobirise](https://mobirise.com).
+Feito com [Mobirise](https://mobirise.com).
